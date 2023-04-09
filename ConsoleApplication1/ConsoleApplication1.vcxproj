@@ -151,10 +151,6 @@
     <ClCompile Include="Downloader.cpp" />
     <ClCompile Include="HttpClient.cpp" />
     <ClCompile Include="main.cpp" />
-    <ClCompile Include="Source.cpp" />
-    <ClCompile Include="Source1.cpp" />
-    <ClCompile Include="Source2.cpp" />
-    <ClCompile Include="Source3.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Common.h" />
